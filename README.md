@@ -9,11 +9,11 @@
 
 ### Дополнительные материалы  
 
-- [https://ru.hexlet.io/blog/posts/prezhdevremennaya-optimizatsiya-absolyutnoe-zlo-ili-inogda-poleznaya-praktika](про преждевременную оптимизацию)  
-- [https://m.habr.com/ru/post/232009/](про структуры данных)  
-- [https://github.com/jngbng/set-vs-object](performance set vs object)  
-- [https://github.com/anvaka/array-vs-object](performance array vs object)  
-- [https://github.com/anvaka/iterator-vs-foreach](iterator vs foreach)  
+- [про преждевременную оптимизацию](https://ru.hexlet.io/blog/posts/prezhdevremennaya-optimizatsiya-absolyutnoe-zlo-ili-inogda-poleznaya-praktika)
+- [про структуры данных](https://m.habr.com/ru/post/232009/)  
+- [performance set vs object](https://github.com/jngbng/set-vs-object)  
+- [performance array vs object](https://github.com/anvaka/array-vs-object)  
+- [iterator vs foreach](https://github.com/anvaka/iterator-vs-foreach)  
 
 ### Что можно еще сделать?  
   
